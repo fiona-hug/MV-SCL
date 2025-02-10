@@ -1,0 +1,7 @@
+数据处理过程是dataload.py
+运行完成后可以得到data.pkl数据，然后直接运行Generate_ICI.py以及GenerateDistanceMat.py
+上述就是全部的代码所需数据了
+
+
+
+评价指标都已经写好放在main。py中了，可以直接运行main。py就可以得到结果了
